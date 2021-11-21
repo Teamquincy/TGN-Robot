@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hello🥀, I m Quincy 
-`I'm here🍎 to help you to manage your 📆groups esyly hit🖍️ to more my self🥀` /help
+`I'm here🍎 to help you to manage your 📆groups esyly hit🖍️ to more my self🥀`. /help
  [❤](https://te.legra.ph/file/4d993faa8afb5ee4c7927.jpg)
 """
 
@@ -93,7 +93,7 @@ buttons = [
     [
         InlineKeyboardButton(text="🧘‍♂Credits🧘‍♂", url=f"https://t.me/Quincycredits"),
         InlineKeyboardButton(
-            text="⚡Developer⚡", url=f"https://t.me/SANTA_K1"
+            text="📆Developer📆", url=f"https://t.me/SANTA_K1"
         ),
     ],
     [
@@ -104,13 +104,13 @@ buttons = [
 
 HELP_STRINGS = """
 `Heya🥀 Im Quincy my lovely commands are bellow🚶..`
-Use thiss commands and use me to manage your group [❤️](https://te.legra.ph/file/4d993faa8afb5ee4c7927.jpg)"""
+Use thiss commands 📌️and use me to manage your groups📑 [❤️](https://te.legra.ph/file/4d993faa8afb5ee4c7927.jpg)"""
 
 START_IMG = "https://te.legra.ph/file/4d993faa8afb5ee4c7927.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Lucifer](t.me/detctective_de) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/Zaid_updates) \
+ Supporting isnt always financial! [SANTA](https://t.me/SANTA_K1) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
